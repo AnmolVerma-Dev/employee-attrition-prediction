@@ -83,4 +83,12 @@
 
    * Confusion Matrix
 
-   * Classification performance analysis   
+   * Classification performance analysis
+
+**How to run the project**
+  * Clone the respository
+     * https://github.com/AnmolVerma-Dev/employee-attrition-prediction.git
+  * Install required libraries
+     * pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+  * Open the Jupyter Notebook and run cells step by step
+  
