@@ -85,7 +85,7 @@
 
    * Classification performance analysis
 
-**How to run the project**
+ **How to run the project**
   * Clone the respository
      * https://github.com/AnmolVerma-Dev/employee-attrition-prediction.git
   * Install required libraries
